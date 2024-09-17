@@ -85,7 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [yashjangid0021@gmail.com](mailto:yashjangid0021@gmail.com).
+For any questions or feedback, please contact [sagarwal56393@gmail.com]
+(mailto: sagarwal56393@gmail.com).
 
 ---
 
